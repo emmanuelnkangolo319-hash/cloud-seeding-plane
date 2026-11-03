@@ -2,6 +2,7 @@
 A rc plane that deposits 150g of salt into clouds to increase chances of rain.
 
 What this plane can do:
+
 -Collect data of the temperature, atmospheric pressure, height and humidity of the air. This data will be used to see how many trips are needed to give the cloud a chance of rain or literally any type of precipitation.
 
 -Take photos and live videos.
