@@ -25,4 +25,4 @@ Electronics:
 <img width="431" height="240" alt="Screenshot 2026-10-26 122610" src="https://github.com/user-attachments/assets/c7d96ba9-f787-4cc7-b8ef-bd2172804518" />
 
 
-
+8x5/8x4.5 propellers
