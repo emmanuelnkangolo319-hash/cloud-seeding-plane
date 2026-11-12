@@ -13,7 +13,7 @@ What this plane can do:
 
 <img width="569" height="308" alt="Screenshot 2026-11-03 131346" src="https://github.com/user-attachments/assets/a1ba5bfa-c555-4b66-a96f-a718fc012b29" />
 
-This 3d model can be printed with LW PLA/PLA AERO with these settings:
+This 3d model should be printed with LW PLA/PLA AERO
 
 I recommend making the air frame out of styrofoam but still reinforced with carbon fiber sheets and epoxy.
 
@@ -25,4 +25,4 @@ Electronics:
 <img width="431" height="240" alt="Screenshot 2026-10-26 122610" src="https://github.com/user-attachments/assets/c7d96ba9-f787-4cc7-b8ef-bd2172804518" />
 
 
-10x5/10x4.5 propellers
+10x5/10x4.5 propellers will be used for this plane
