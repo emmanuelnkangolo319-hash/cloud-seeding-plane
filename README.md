@@ -25,4 +25,7 @@ Electronics:
 <img width="431" height="240" alt="Screenshot 2026-10-26 122610" src="https://github.com/user-attachments/assets/c7d96ba9-f787-4cc7-b8ef-bd2172804518" />
 
 
-10x4.5 propellers will be used for this plane
+<img width="575" height="334" alt="Screenshot 2026-11-27 113803" src="https://github.com/user-attachments/assets/063da26c-26a5-450f-8900-7d4ab96f805e" />
+
+
+10x4.5 propellers will be used for this plane.
