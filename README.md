@@ -28,4 +28,6 @@ Electronics:
 <img width="575" height="334" alt="Screenshot 2026-11-27 113803" src="https://github.com/user-attachments/assets/063da26c-26a5-450f-8900-7d4ab96f805e" />
 
 
+I recommend making the ground controls with a perf board.
+
 10x4.5 propellers will be used for this plane.
