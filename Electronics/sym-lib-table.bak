@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BMP180") (type "KiCad") (uri "C:/Users/Usuario/Downloads/BMP180/BMP180.kicad_sym") (options "") (descr ""))
+	(lib (name "ESP32-S3-DEVKIT-LIPO") (type "KiCad") (uri "C:/Users/Usuario/Downloads/ESP32-S3-DEVKIT-LIPO/ESP32-S3-DEVKIT-LIPO.kicad_sym") (options "") (descr ""))
+)
